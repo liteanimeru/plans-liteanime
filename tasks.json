@@ -1,9 +1,5 @@
 [
   { "id": 1, "title": "Добавить на сайт новые роли", "status": "In Progress", "labels": ["feature"] },
- // { "id": 2856, "title": "Исправить критический баг с логином", "status": "Bugs", "labels": ["bug"] },
-  //{ "id": 2857, "title": "Прогнать тесты перед релизом", "status": "In Progress", "labels": ["enhancement"] },
-  //{ "id": 2858, "title": "Заказать пиццу для команды", "status": "Backlog", "labels": [] },
-  //{ "id": 2859, "title": "Обновить документацию", "status": "Backlog", "labels": ["enhancement"] },
-  //{ "id": 2860, "title": "Проверить работу GraphQL", "status": "Bugs", "labels": ["bug", "status: todo"] },
+
 
 ]
